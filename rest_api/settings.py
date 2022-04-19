@@ -31,8 +31,6 @@ DEBUG = config('DEBUG')
 ALLOWED_HOSTS = ['nextjs-api0419.herokuapp.com']
 
 
-# Application definition
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
